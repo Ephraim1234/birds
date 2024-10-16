@@ -1,0 +1,1 @@
+query_id=AAF4vLRCAgAAAHi8tEJnRZsa&user=%7B%22id%22%3A5414108280%2C%22first_name%22%3A%22Eph%22%2C%22last_name%22%3A%22Oristegbubemi%F0%9F%A6%B4%F0%9F%8D%85%F0%9F%92%A0%22%2C%22username%22%3A%22Ephraim202%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728931373&hash=ee29f8ca760c75d6ea97e88131f7069e0250da5b1eb0e20f7fd8d31658b6f200
